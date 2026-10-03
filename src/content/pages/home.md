@@ -1,10 +1,10 @@
 ---
 archetype: "home"
-title: "Life Savers Restoration LLC | Restoration Services in Henderson, NV"
-h1: "24/7 Restoration Services in Henderson"
-meta_description: "Life Savers Restoration LLC provides 24/7 water, fire, mold, and storm damage restoration across Henderson and surrounding areas. Licensed, insured, IICRC-certified. Call (702) 845-1325."
-primary_keyword: "restoration services henderson"
-secondary_keywords: ["restoration company near me", "24/7 damage restoration", "emergency restoration"]
+title: "Water Damage Restoration in Henderson, NV | Life Savers Restoration LLC"
+h1: "24/7 Water Damage Restoration in Henderson, NV"
+meta_description: "Life Savers Restoration LLC provides water damage restoration in Henderson, NV, answering 24/7. IICRC certified. Call (702) 845-1325 now."
+primary_keyword: "water damage restoration henderson"
+secondary_keywords: ["best restoration company in henderson", "restoration company henderson", "water damage restoration near me"]
 search_intent: "local_commercial"
 priority: 5.0
 plan_hash: "38c7d7c92563d534"
