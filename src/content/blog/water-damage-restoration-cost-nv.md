@@ -17,6 +17,7 @@ faq: [{"question": "How much does water damage restoration cost in Nevada?", "an
 published_at: "2026-09-07"
 services: []
 rendered: true
+author: "Rudy Contreras"
 ---
 **TL;DR:** Water damage restoration in Nevada typically costs $1,500 to $8,000 for most residential losses. Small, clean-water jobs (a supply line leak caught early) run $1,200 to $3,500. Large losses involving Category 2 or 3 water, multiple rooms, or structural drying push into the $5,000 to $15,000 range. Every loss is different, and Life Savers Restoration LLC provides a written scope before any work begins.
 

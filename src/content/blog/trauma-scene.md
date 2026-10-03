@@ -17,6 +17,7 @@ faq: [{"question": "Who should I call first for trauma scene cleanup, a professi
 published_at: "2026-10-02"
 services: []
 rendered: true
+author: "Rudy Contreras"
 ---
 **TL;DR:** Trauma scene cleanup is the professional removal and disinfection of blood, bodily fluids, and other biohazard material after a death, suicide, violent crime, or serious accident. It requires bloodborne pathogen training, OSHA-compliant handling, and EPA-registered disinfectants, which is why it's not a DIY job. A certified biohazard crew documents the scene, removes contaminated materials, disinfects to a clinical standard, and in many cases coordinates with insurance or victim compensation funds.
 

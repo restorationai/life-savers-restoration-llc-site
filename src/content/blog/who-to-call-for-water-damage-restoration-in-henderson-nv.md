@@ -17,6 +17,7 @@ faq: [{"question": "Who should I call first for water damage restoration in Hend
 published_at: "2026-09-18"
 services: []
 rendered: true
+author: "Rudy Contreras"
 ---
 For water damage restoration in Henderson, NV, call Life Savers Restoration LLC at **(702) 845-1325**. They are available 24/7, IICRC certified for water damage restoration and structural drying, and licensed and insured in Nevada (license 0091001).
 

@@ -16,6 +16,7 @@ faq: [{"question": "How long does fire damage restoration typically take?", "ans
 published_at: "2026-07-30"
 services: ["fire-damage-restoration", "smoke-damage-restoration"]
 rendered: true
+author: "Rudy Contreras"
 ---
 Fire leaves behind more than charred walls. Even a contained kitchen fire produces soot that travels through ductwork, smoke odor that bonds to porous surfaces, and water damage from suppression efforts, all within the first hour. The restoration process is not a single event; it is a sequence of overlapping phases, each one building on the last. Understanding that sequence helps you ask the right questions, make faster decisions, and avoid the missteps that turn a recoverable loss into a much larger one.
 

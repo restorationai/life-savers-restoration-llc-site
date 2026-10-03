@@ -16,6 +16,7 @@ faq: [{"question": "Should I choose a restoration company before or after I call
 published_at: "2026-07-28"
 services: ["water-damage-restoration", "fire-damage-restoration", "mold-remediation"]
 rendered: true
+author: "Rudy Contreras"
 ---
 Choosing a restoration company after a water loss, fire, or mold discovery is one of the most consequential decisions you'll make as a property owner, and you're usually making it under pressure, sometimes at midnight, sometimes while a ceiling is still dripping. The short answer: vet the company's credentials before you sign anything, understand what the contract actually commits you to, and never let urgency override due diligence. The sections below walk you through exactly how to do that, even when you're stressed and the clock is ticking.
 

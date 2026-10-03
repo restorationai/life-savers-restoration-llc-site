@@ -16,6 +16,7 @@ faq: [{"question": "Can I test for black mold myself without sending samples to 
 published_at: "2026-07-23"
 services: ["mold-remediation"]
 rendered: true
+author: "Rudy Contreras"
 ---
 Most mold looks alarming the moment you spot it, a dark smear behind the toilet, a fuzzy patch on drywall after a slow leak, a greenish bloom on the ceiling of a poorly ventilated bathroom. The short answer to the headline question: color alone does not tell you whether mold is dangerous. "Black mold" is a term that gets thrown around to mean *Stachybotrys chartarum*, a specific species with a reputation for producing mycotoxins, but dozens of common mold species can appear black, dark green, or nearly charcoal depending on the surface they're colonizing and the moisture level. What matters more than color is species, concentration, and where it's growing.
 

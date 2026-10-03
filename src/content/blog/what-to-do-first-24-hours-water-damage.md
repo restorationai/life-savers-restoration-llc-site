@@ -16,6 +16,7 @@ faq: [{"question": "How long do I have before water damage becomes a mold proble
 published_at: "2026-08-02"
 services: ["water-damage-restoration"]
 rendered: true
+author: "Rudy Contreras"
 ---
 If water has entered your home, the clock starts the moment the source stops. Mold can begin colonizing wet materials in as little as 24 to 48 hours, and structural damage compounds quickly once water migrates behind walls or under flooring. Here is what to do, in order, to protect your home and your insurance claim during that critical first day.
 

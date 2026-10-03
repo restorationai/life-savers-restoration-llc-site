@@ -16,6 +16,7 @@ faq: [{"question": "How long does it take for mold to grow after a pipe bursts?"
 published_at: "2026-07-21"
 services: ["water-damage-restoration", "appliance-leak-cleanup"]
 rendered: true
+author: "Rudy Contreras"
 ---
 If a pipe just burst in your home, here is what to do right now: shut off the main water supply, cut power to any affected rooms at the breaker panel, move valuables out of standing water, and call a plumber. Do those four things first. Everything else on this checklist, drying, documentation, mold prevention, comes after the water stops flowing. Keep reading for the full step-by-step breakdown, including the mistakes that turn a manageable repair into a five-figure restoration bill.
 

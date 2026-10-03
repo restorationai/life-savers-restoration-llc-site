@@ -17,6 +17,7 @@ faq: [{"question": "How long does a typical water damage drying job take?", "ans
 published_at: "2026-09-29"
 services: []
 rendered: true
+author: "Rudy Contreras"
 ---
 When a water damage restoration crew handles a job well, homeowners usually notice two things: how quickly the team gets organized, and how much equipment ends up running in their living room. One recent review left for Life Savers Restoration LLC captures both of those things, plus a detail that says a lot about how an experienced customer starts thinking like a technician by the end of the job.
 

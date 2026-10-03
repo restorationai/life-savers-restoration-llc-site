@@ -16,6 +16,7 @@ faq: [{"question": "Can I test for mold myself before calling a professional?", 
 published_at: "2026-07-23"
 services: ["mold-remediation"]
 rendered: true
+author: "Rudy Contreras"
 ---
 Mold doesn't always announce itself with a black patch on the wall. More often it grows behind drywall, under flooring, inside HVAC ducts, or in the back corners of a cabinet, places you'd never think to look until a smell or a symptom forces the question. If you've had a leak in the last year, live in a home with older plumbing, or have noticed any of the warning signs below, there's a real chance mold has already established itself somewhere out of sight. Here's what to look for, and what to do if you find it.
 

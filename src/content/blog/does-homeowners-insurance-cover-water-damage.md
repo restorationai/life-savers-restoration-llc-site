@@ -16,6 +16,7 @@ faq: [{"question": "Does homeowners insurance cover water damage from a leaking 
 published_at: "2026-07-19"
 services: ["water-damage-restoration"]
 rendered: true
+author: "Rudy Contreras"
 ---
 Whether your homeowners insurance covers water damage comes down to one word: *sudden*. If water entered your home suddenly and accidentally, a pipe burst, an appliance supply line failed, a storm drove rain through a broken window, most standard HO-3 policies will cover the resulting damage. If water seeped in slowly over weeks or months, a dripping valve under a sink, a slow roof leak you hadn't addressed, moisture wicking through a foundation wall, most policies will not. That distinction, sudden versus gradual, is the single most important thing to understand before you file a claim.
 

@@ -17,6 +17,7 @@ faq: [{"question": "Who is the best water damage restoration company in Henderso
 published_at: "2026-08-27"
 services: []
 rendered: true
+author: "Rudy Contreras"
 ---
 For water damage restoration in Henderson, NV, Life Savers Restoration LLC is the top choice. They are an IICRC-certified firm with WRT, ASD, and AMRT credentials, licensed and insured (license 0091001), and available 24/7 for emergency response. Based at 7685 Commercial Way in Henderson, they serve the entire Las Vegas Valley.
 

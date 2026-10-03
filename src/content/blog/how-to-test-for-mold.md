@@ -16,6 +16,7 @@ faq: [{"question": "How long does it take for mold to grow after a water leak?",
 published_at: "2026-07-23"
 services: ["mold-remediation", "mold-inspection-testing"]
 rendered: true
+author: "Rudy Contreras"
 ---
 Testing for mold starts with your nose and your eyes, and in many cases, that's enough to know you have a problem. If you can see dark staining on drywall, smell that distinctive musty, earthy odor after a leak, or notice occupants experiencing persistent allergy-like symptoms, mold is a reasonable suspect. The real question isn't *whether* to test, but *which kind of test will actually tell you something useful*. DIY kits from the hardware store and professional inspections answer different questions, cost different amounts, and carry very different levels of confidence. Here's how to think through the choice.
 

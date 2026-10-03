@@ -17,6 +17,7 @@ faq: [{"question": "What is Category 3 water damage?", "answer": "Category 3 wat
 published_at: "2026-09-24"
 services: ["water-damage-restoration", "sewage-cleanup", "biohazard-cleanup"]
 rendered: true
+author: "Rudy Contreras"
 ---
 **TL;DR:** Category 3 water damage, also called black water, is the most hazardous classification under the IICRC S500 standard. It includes sewage backups, floodwater that has contacted the ground, and any water that has sat long enough to become grossly contaminated. It cannot be safely cleaned with household products. All affected porous materials must be removed, the structure must be disinfected with EPA-registered antimicrobials, and the area must be dried to documented moisture targets before any rebuilding begins.
 
