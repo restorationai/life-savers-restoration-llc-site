@@ -19,13 +19,13 @@ When water backs up through a drain, smoke settles into drywall, or mold starts 
 
 ## Services we handle
 
-**Water damage restoration**, Whether it's a burst pipe at 2 a.m. or a slow leak that's been hiding under your flooring for weeks, standing water and trapped moisture cause structural damage fast. We extract, dry, and document everything.
+**[Water damage restoration](/services/water-damage-restoration/)**, Whether it's a burst pipe at 2 a.m. or a slow leak that's been hiding under your flooring for weeks, standing water and trapped moisture cause structural damage fast. We extract, dry, and document everything.
 
-**Fire and smoke damage restoration**, Smoke residue doesn't stay where the fire was. It travels through HVAC systems and settles into porous materials throughout the home. We address the odor, the soot, and the structural damage left behind.
+**[Fire](/services/fire-damage-restoration/) and [smoke damage restoration](/services/smoke-damage-restoration/)**, Smoke residue doesn't stay where the fire was. It travels through HVAC systems and settles into porous materials throughout the home. We address the odor, the soot, and the structural damage left behind.
 
-**Mold remediation**, In Southern Nevada's dry climate, mold growth after a water intrusion can still take hold within 24 to 48 hours, especially in poorly ventilated spaces like attics and wall cavities. We identify the source, contain the affected area, and remediate it properly.
+**[Mold remediation](/services/mold-remediation/)**, In Southern Nevada's dry climate, mold growth after a water intrusion can still take hold within 24 to 48 hours, especially in poorly ventilated spaces like attics and wall cavities. We identify the source, contain the affected area, and remediate it properly.
 
-**Reconstruction**, Once the damage is mitigated, getting your home back to livable condition requires more than drying equipment. We handle the rebuild so you're not coordinating a separate contractor while you're already dealing with an insurance claim.
+**[Reconstruction](/services/reconstruction/)**, Once the damage is mitigated, getting your home back to livable condition requires more than drying equipment. We handle the rebuild so you're not coordinating a separate contractor while you're already dealing with an insurance claim.
 
 ## Why homeowners and property managers call us
 

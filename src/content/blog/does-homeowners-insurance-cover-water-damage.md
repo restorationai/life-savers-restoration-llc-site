@@ -68,7 +68,7 @@ If you're dealing with an active leak or flooding right now, the sequence matter
 4. **Begin mitigation, don't wait.** Most policies require you to take "reasonable steps" to prevent further damage. That means extracting standing water, moving wet belongings out of the affected area, and getting air moving. Doing nothing while you wait for an adjuster can give the insurer grounds to reduce your payout.
 5. **Keep every receipt.** Emergency fans, hotel stays if the home is uninhabitable, meals if you're displaced, many policies include Additional Living Expenses (ALE) coverage that reimburses these costs.
 
-Professional water damage restoration companies can document moisture readings, extract water, and begin drying in a way that creates a defensible record for your claim. That documentation, moisture maps, equipment logs, daily readings, often makes the difference between a smooth claim and a disputed one.
+Professional [water damage restoration](/services/water-damage-restoration/) companies can document moisture readings, extract water, and begin drying in a way that creates a defensible record for your claim. That documentation, moisture maps, equipment logs, daily readings, often makes the difference between a smooth claim and a disputed one.
 
 ## When the Insurer Disputes or Denies the Claim
 

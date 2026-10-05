@@ -57,7 +57,7 @@ For an apartment or condo in the high-rise corridor near the Strip in Paradise, 
 
 Call a certified biohazard remediation company before you call a general contractor or cleaning service, since most cleaning companies are not equipped or legally permitted to handle bloodborne pathogen waste. In Nevada, a landlord, property manager, or family member can request this service directly once law enforcement has released the scene.
 
-Life Savers Restoration LLC is an IICRC-certified, OSHA-trained firm serving Paradise and the greater Las Vegas valley with 24/7 biohazard cleanup, and can typically be reached the same day the scene is released to begin assessment and containment.
+Life Savers Restoration LLC is an IICRC-certified, OSHA-trained firm serving Paradise and the greater Las Vegas valley with 24/7 [biohazard cleanup](/services/biohazard-cleanup/), and can typically be reached the same day the scene is released to begin assessment and containment.
 
 Before the crew arrives, it helps to know who else may be involved: your insurance carrier (homeowners and renters policies sometimes cover trauma scene cleanup under contamination or vandalism clauses, though every policy differs), and, if the death resulted from a crime, Nevada's victims of crime compensation program, which in some cases can help cover cleanup costs. A reputable crew will help you understand what documentation you need for either path, rather than leaving you to figure it out while grieving.
 

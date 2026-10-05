@@ -75,4 +75,4 @@ Contents restoration, cleaning and deodorizing salvageable furniture, clothing, 
 
 If the fire was limited to a small appliance and the room shows no soot spread, no suppression water, and no odor in adjacent spaces, some homeowners handle cleanup themselves. In most other situations, anything involving structural materials, ductwork, suppression water, or odor that has spread beyond the room of origin, professional involvement is the faster and usually less expensive path.
 
-Life Savers Restoration LLC handles fire damage restoration and smoke damage restoration in Henderson and the surrounding area. If you are in the middle of this process and have questions about next steps, call (702) 845-1325.
+Life Savers Restoration LLC handles [fire damage restoration](/services/fire-damage-restoration/) and [smoke damage restoration](/services/smoke-damage-restoration/) in Henderson and the surrounding area. If you are in the middle of this process and have questions about next steps, call (702) 845-1325.

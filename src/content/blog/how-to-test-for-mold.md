@@ -84,4 +84,4 @@ The moisture source has to be identified and corrected before remediation begins
 
 ---
 
-If your testing, DIY or professional, points to a real problem, or if you're past the testing stage and need to understand what remediation actually involves, Life Savers Restoration LLC handles mold inspection, testing, and full remediation for Henderson and the surrounding Las Vegas Valley. Call (702) 845-1325 to talk through what you're seeing and what makes sense as a next step.
+If your testing, DIY or professional, points to a real problem, or if you're past the testing stage and need to understand what remediation actually involves, Life Savers Restoration LLC handles [mold inspection and testing](/services/mold-inspection-testing/) and full [mold remediation](/services/mold-remediation/) for Henderson and the surrounding Las Vegas Valley. Call (702) 845-1325 to talk through what you're seeing and what makes sense as a next step.
