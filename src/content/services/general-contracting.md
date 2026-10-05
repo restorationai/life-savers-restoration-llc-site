@@ -14,7 +14,7 @@ internal_links: ["/services/", "/contact/", "/service-areas/blue-diamond-nv/", "
 breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Services", "url": "/services/"}, {"name": "general-contracting"}]
 faq: []
 service_slug: "general-contracting"
-service_display: "general-contracting"
+service_display: "Renovations, Remodels and General Contracting"
 ---
 <!-- Page body not yet generated. Run `build_site.py render --slug life-savers-restoration-llc` to populate. The frontmatter above is the source-of-truth metadata from the plan. -->
 

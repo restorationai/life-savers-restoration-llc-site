@@ -17,7 +17,7 @@ area_slug: "las-vegas-nv"
 service_slug: "emergency-water-removal"
 city: "Las Vegas"
 state: "NV"
-service_display: "emergency-water-removal"
+service_display: "Emergency Water Removal & Cleanup"
 rendered: true
 ---
 **Standing water spreading across your Las Vegas floors right now?** Life Savers Restoration answers 24/7 and gets a crew moving the moment you call, whether it's a burst supply line, a monsoon downpour backing up through a roof penetration, or a failed evaporative cooler flooding an attic. Las Vegas homes are built on concrete slab foundations with almost no natural drainage path, so once water gets past the surface it has nowhere to go but under flooring and into wall cavities. We extract, measure, and dry the structure before that moisture turns into a mold problem.
