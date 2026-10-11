@@ -21,7 +21,7 @@ author: "Rudy Contreras"
 ---
 **TL;DR:** Category 3 water damage, also called black water, is the most hazardous classification under the IICRC S500 standard. It includes sewage backups, floodwater that has contacted the ground, and any water that has sat long enough to become grossly contaminated. It cannot be safely cleaned with household products. All affected porous materials must be removed, the structure must be disinfected with EPA-registered antimicrobials, and the area must be dried to documented moisture targets before any rebuilding begins.
 
-If sewage backed up into your bathroom, floodwater entered your home through a door or window, or you noticed your water damage smells foul and has a dark color, you are likely dealing with Category 3 water. This is not a situation where bleach and a shop vac will get you to safe. The [IICRC S500 Standard for Professional Water Damage Restoration](https://www.iicrc.org/page/IICRCS500) classifies water into three categories based on contamination level, and Category 3 sits at the top of that scale for a reason. Here is what that means for your home and your health.
+If sewage backed up into your bathroom, floodwater entered your home through a door or window, or you noticed your water damage smells foul and has a dark color, you are likely dealing with Category 3 water. This is not a situation where bleach and a shop vac will get you to safe. The [IICRC S500 Standard for Professional Water Damage Restoration](https://iicrc.org/s500/) classifies water into three categories based on contamination level, and Category 3 sits at the top of that scale for a reason. Here is what that means for your home and your health.
 
 ## What Is Category 3 Water Damage?
 
@@ -37,7 +37,7 @@ One important detail: Category 1 or Category 2 water that sits untreated will de
 
 ## Is Category 3 Water Damage Dangerous?
 
-Yes. Category 3 water contains bacteria such as E. coli and Salmonella, viruses, parasites, and in sewage situations, fecal matter with active pathogens. The [CDC notes that floodwater](https://www.cdc.gov/healthywater/emergency/floodwater.html) can carry sewage, agricultural runoff, and chemical contaminants, all of which can cause serious illness through skin contact, inhalation of aerosolized droplets, or accidental ingestion.
+Yes. Category 3 water contains bacteria such as E. coli and Salmonella, viruses, parasites, and in sewage situations, fecal matter with active pathogens. The [CDC notes that floodwater](https://www.cdc.gov/natural-disasters/safety/index.html) can carry sewage, agricultural runoff, and chemical contaminants, all of which can cause serious illness through skin contact, inhalation of aerosolized droplets, or accidental ingestion.
 
 Beyond the biological hazards, Category 3 losses create secondary risks:
 

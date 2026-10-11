@@ -46,7 +46,7 @@ These are typical industry figures for this region, not a quote or guarantee. Ev
 
 Four variables account for most of the spread between a $1,500 job and a $12,000 job.
 
-**Water category.** The [IICRC S500 standard](https://www.iicrc.org/page/IICRCS500) classifies water losses into three categories. Category 1 is clean water from a supply line or appliance. Category 2 is gray water with some contamination, like a washing machine drain or dishwasher overflow. Category 3, also called black water, includes sewage backups, toilet bowl overflows, and any water that has been standing long enough to grow bacteria. Category 3 requires full PPE, antimicrobial treatment, and disposal of porous materials that cannot be safely dried in place. That adds significant labor and material cost.
+**Water category.** The [IICRC S500 standard](https://iicrc.org/s500/) classifies water losses into three categories. Category 1 is clean water from a supply line or appliance. Category 2 is gray water with some contamination, like a washing machine drain or dishwasher overflow. Category 3, also called black water, includes sewage backups, toilet bowl overflows, and any water that has been standing long enough to grow bacteria. Category 3 requires full PPE, antimicrobial treatment, and disposal of porous materials that cannot be safely dried in place. That adds significant labor and material cost.
 
 **Square footage affected.** Restoration companies price by the square foot for drying, antimicrobial application, and content manipulation. A 200-square-foot bathroom loss and a 1,400-square-foot ground floor loss are not in the same ballpark.
 
