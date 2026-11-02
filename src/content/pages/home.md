@@ -21,7 +21,7 @@ When water backs up through a drain, smoke settles into drywall, or mold starts 
 
 **[Water damage restoration](/services/water-damage-restoration/)**, Whether it's a burst pipe at 2 a.m. or a slow leak that's been hiding under your flooring for weeks, standing water and trapped moisture cause structural damage fast. We extract, dry, and document everything.
 
-**[Fire](/services/fire-damage-restoration/) and [smoke damage restoration](/services/smoke-damage-restoration/)**, Smoke residue doesn't stay where the fire was. It travels through HVAC systems and settles into porous materials throughout the home. We address the odor, the soot, and the structural damage left behind.
+**[Fire damage restoration](/services/fire-damage-restoration/) and [smoke damage](/services/smoke-damage-restoration/)**, Smoke residue doesn't stay where the fire was. It travels through HVAC systems and settles into porous materials throughout the home. We address the odor, the soot, and the structural damage left behind.
 
 **[Mold remediation](/services/mold-remediation/)**, In Southern Nevada's dry climate, mold growth after a water intrusion can still take hold within 24 to 48 hours, especially in poorly ventilated spaces like attics and wall cavities. We identify the source, contain the affected area, and remediate it properly.
 
@@ -41,7 +41,7 @@ And because water doesn't wait for business hours, neither do we. The line at (7
 
 The company is based in Henderson and serves the broader Las Vegas Valley. If you're in Las Vegas, North Las Vegas, Boulder City, or the surrounding unincorporated communities of Clark County, you're in the service area. Henderson's mix of housing, from the master-planned communities near Green Valley to older ranch-style homes closer to downtown, means the team regularly works with slab foundations, stucco exteriors, and the specific moisture challenges that come with desert construction where waterproofing details are sometimes minimal.
 
-Henderson's water comes from Lake Mead via the Southern Nevada Water Authority, and the region's low annual rainfall means most water damage events here are plumbing failures, appliance leaks, or HVAC condensation issues rather than storm flooding, though monsoon season does bring its share of flat-roof and drainage problems every summer.
+Henderson's water comes from Lake Mead via the Southern Nevada Water Authority, and the region's low annual rainfall means most water damage events here are plumbing failures, appliance leaks, or HVAC condensation issues rather than storm flooding, though monsoon season does bring its share of flat-roof and drainage problems every summer that call for [storm damage restoration](/services/storm-damage-restoration/).
 
 If you're not sure whether you're in the service area, call. It's a quick answer.
 
