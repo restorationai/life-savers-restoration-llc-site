@@ -1,6 +1,6 @@
 ---
 archetype: "service-areas-hub"
-title: "Service Areas | Life Savers Restoration LLC Restoration"
+title: "Service Areas | Life Savers Restoration LLC"
 h1: "Areas We Serve"
 meta_description: "Life Savers Restoration LLC provides 24/7 restoration services across Henderson and the surrounding region. Find your city."
 primary_keyword: "life savers restoration llc service areas"
