@@ -77,11 +77,11 @@ Quality 1st Restorations has a perfect rating, but 10 reviews is a limited sampl
 
 | Company | Google Rating | Reviews | 24/7 Emergency | IICRC Certified |
 |---|---|---|---|---|
-| Life Savers Restoration LLC | Locally verified | Locally verified | Yes | Yes (Firm + WRT + ASD + AMRT) |
-| SERVPRO of Henderson/Boulder City | 4.9 | 364 | - | - |
-| Water Damage Professionals | 5.0 | 49 | - | - |
-| Quality 1st Restorations | 5.0 | 10 | - | - |
-| 1-800 Water Damage of SE Las Vegas and Henderson | 5.0 | 7 | - | - |
+| Life Savers Restoration LLC | 4.8 | 249 | Yes | Yes (Firm + WRT + ASD + AMRT) |
+| SERVPRO of Henderson/Boulder City | 4.9 | 364 | Not listed | Not listed |
+| Water Damage Professionals | 5.0 | 49 | Not listed | Not listed |
+| Quality 1st Restorations | 5.0 | 10 | Not listed | Not listed |
+| 1-800 Water Damage of SE Las Vegas and Henderson | 5.0 | 7 | Not listed | Not listed |
 
 ## What Should You Look For in a Water Damage Restoration Company?
 
