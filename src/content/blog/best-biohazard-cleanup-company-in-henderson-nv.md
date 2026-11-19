@@ -54,7 +54,7 @@ Remnant Biohazard - Henderson is listed on Google as a crime victim service with
 
 | Company | Google Rating | Reviews | 24/7 Emergency | IICRC Certified |
 |---|---|---|---|---|
-| Life Savers Restoration LLC | 4.8 | 249 | Yes | Yes |
+| Life Savers Restoration LLC | 4.8 | 250 | Yes | Yes |
 | Red Desert Biohazard Clean Up of Henderson | 5.0 | 5 | Not listed | Not listed |
 | SERVPRO of Henderson/Boulder City | 4.9 | 368 | Not listed | Not listed |
 | Remnant Biohazard - Henderson | 5.0 | 15 | Not listed | Not listed |

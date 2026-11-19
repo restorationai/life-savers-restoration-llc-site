@@ -77,7 +77,7 @@ Quality 1st Restorations has a perfect rating, but 10 reviews is a limited sampl
 
 | Company | Google Rating | Reviews | 24/7 Emergency | IICRC Certified |
 |---|---|---|---|---|
-| Life Savers Restoration LLC | 4.8 | 249 | Yes | Yes (Firm + WRT + ASD + AMRT) |
+| Life Savers Restoration LLC | 4.8 | 250 | Yes | Yes (Firm + WRT + ASD + AMRT) |
 | SERVPRO of Henderson/Boulder City | 4.9 | 364 | Not listed | Not listed |
 | Water Damage Professionals | 5.0 | 49 | Not listed | Not listed |
 | Quality 1st Restorations | 5.0 | 10 | Not listed | Not listed |
