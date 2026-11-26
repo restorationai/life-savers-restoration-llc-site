@@ -20,13 +20,13 @@ A water, fire, or storm loss almost never arrives at a convenient time, and the 
 
 ## What financing and payment options actually cover
 
-Financing is not a substitute for an insurance claim — it works alongside one. Where a loss is covered, Life Savers Restoration LLC documents the damage to the IICRC standard and, where your policy allows, bills your carrier directly, so in most cases your out-of-pocket cost is your deductible rather than the full invoice. Our insurance claim assistance is built to keep that covered scope moving.
+Financing is not a substitute for an insurance claim: it works alongside one. Where a loss is covered, Life Savers Restoration LLC documents the damage to the IICRC standard and, where your policy allows, bills your carrier directly, so in most cases your out-of-pocket cost is your deductible rather than the full invoice. Our insurance claim assistance is built to keep that covered scope moving.
 
 Financing and flexible payment options are there for the rest: the deductible when it is a stretch to cover at once, the items a policy excludes, and restoration or reconstruction projects that are not tied to a claim at all. The right option depends on the size and type of the project, so we go over what is available with you before work begins rather than committing you to anything up front.
 
 ## Our process
 
-1. **Stabilize first, sort out payment alongside.** For active damage we begin mitigation right away — most policies require prompt action, and waiting can make a loss worse. The payment and financing conversation runs in parallel, never as a gate in front of emergency work.
+1. **Stabilize first, sort out payment alongside.** For active damage we begin mitigation right away: most policies require prompt action, and waiting can make a loss worse. The payment and financing conversation runs in parallel, never as a gate in front of emergency work.
 
 2. **A clear picture of the numbers.** Before any major reconstruction, we lay out what your insurance is expected to cover, what your deductible is, and what any remaining balance looks like, so the decision is made with real figures rather than estimates.
 
@@ -36,7 +36,7 @@ Financing and flexible payment options are there for the rest: the deductible wh
 
 ## Where the out-of-pocket cost usually comes from
 
-Even a well-handled claim can leave a balance. The most common source is the deductible, which is owed regardless of how the claim settles. The second is the gap between what a policy covers and what the property actually needs — older policies, exclusions, and coverage limits all create scope that falls to the homeowner. The third is work that is not a claim at all, such as upgrades chosen during reconstruction or damage a carrier declines to cover. Financing and flexible payment options give you a way to handle those pieces without putting the repair on hold.
+Even a well-handled claim can leave a balance. The most common source is the deductible, which is owed regardless of how the claim settles. The second is the gap between what a policy covers and what the property actually needs: older policies, exclusions, and coverage limits all create scope that falls to the homeowner. The third is work that is not a claim at all, such as upgrades chosen during reconstruction or damage a carrier declines to cover. Financing and flexible payment options give you a way to handle those pieces without putting the repair on hold.
 
 ## An honest note on how we handle the money side
 
